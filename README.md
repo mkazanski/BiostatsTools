@@ -1,5 +1,5 @@
-# biostatsTools
-"biostatsTools" contains a small collection of custom functions designed for efficient data processing and statistical analysis. Built as part of the final project requirement for BMI510: Biostatistics for Machine Learning.
+# BiostatsTools
+"BiostatsTools" contains a small collection of custom functions designed for efficient data processing and statistical analysis. Built as part of the final project requirement for BMI510: Biostatistics for Machine Learning.
 
 Functions include:
 logLikBernoulli = function(data): Computes the parameter (p) that maximizes the log-likelihood for a given input of a Bernoulli-distributed vector (data).
