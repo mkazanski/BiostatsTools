@@ -1,11 +1,10 @@
 Package: BiostatsTools
-Title: Custom Functions for Data Processing and Statistical Operations
+Title: Custom functions supporting data processing and statistical analyses
 Version: 0.0.0.9000
 Authors@R: 
     person("Meghan", "Kazanski", , "m.e.kazanski@emory.edu")
 Description: "BiostatsTools" contains a small collection of custom functions designed for efficient data processing and statistical analysis. Built as part of the final project requirement for BMI510: Biostatistics for Machine Learning.
-License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
-    license
+License: `use_mit_license()`
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.1
